@@ -169,7 +169,7 @@
     "@saleor/app-sdk": "1.15.0",
     "@sentry/cli": "^2.58.2",
     "@storybook/addon-mcp": "^0.4.1",
-    "@storybook/addon-vitest": "10.2.19",
+    "@storybook/addon-vitest": "10.6.2",
     "@storybook/react": "10.2.19",
     "@storybook/react-vite": "10.2.19",
     "@swc/jest": "^0.2.39",
