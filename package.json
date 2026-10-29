@@ -111,7 +111,7 @@
     "currency-codes": "^2.2.0",
     "currency.js": "^2.0.4",
     "debug": "^4.4.3",
-    "dompurify": "^3.4.8",
+    "dompurify": "^3.4.17",
     "downshift": "^6.1.12",
     "editorjs-inline-tool": "^0.4.0",
     "fast-array-diff": "^0.2.0",
